@@ -1,5 +1,3 @@
-Certainly! Here's the updated README with "me" instead of "Boahene" where necessary:
-
 # My Portfolio
 
 This is the repository for my portfolio website, showcasing my work as a frontend developer. The website is designed using HTML and CSS and includes sections for an introduction, projects, contact information, and social media links.
